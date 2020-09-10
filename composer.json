@@ -1,0 +1,19 @@
+{
+    "name": "lukjon/personalcodelt",
+    "description": "Validates and extracts data from personal code (LT)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laluan",
+            "email": "lgaidziunas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Lukjon\\PersonalCodeLT\\": "src/"
+        }
+    },
+    "require": {}
+}
